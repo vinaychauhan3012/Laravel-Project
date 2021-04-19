@@ -6,5 +6,7 @@
 * Trash blogs ``` ONLY ADMIN```
 * Simple and Professional Design
 
+&copy; Vinay chauhan
+
 
 
